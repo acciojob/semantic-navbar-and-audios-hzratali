@@ -1,4 +1,3 @@
 {
     "testRepo": "semantic-navbar-and-audios-solution",
-    "pathToFile": "cypress/integration/tests/test.spec.js"
 }
